@@ -1,0 +1,23 @@
+1. E. F. Cardoso, R. M. Silva, and T. A. Almeida  
+   "Towards automatic filtering of fake reviews", Neurocomputing, vol. 309, pp. 106-116, Oct. 2018.  
+   - Focus: Proposes automatic filtering mechanisms for fake reviews using advanced computational techniques.  
+
+2. Y. Ren and Y. Zhang  
+   "Deceptive opinion spam detection using neural network", Proc. 26th Int. Conf. Comput. Linguistics: Tech. Papers (COLING), pp. 140-150, 2016.  
+   - Focus: Neural network-based detection of opinion spam in reviews.  
+
+3. N. Jindal and B. Liu  
+   "Opinion spam and analysis", Proc. Int. Conf. Web Search Web Data Mining (WSDM), pp. 219-230, 2008.  
+   - Focus: One of the pioneering works in opinion spam and fake review detection.  
+
+4. A. Heydari, M. Tavakoli, and N. Salim  
+   "Detection of fake opinions using time series", Expert Syst. Appl., vol. 58, pp. 83-92, Oct. 2016.  
+   - Focus: Time-series approaches for detecting fake reviews.  
+
+5. H. Aghakhani, A. Machiry, S. Nilizadeh, C. Kruegel, and G. Vigna  
+   "Detecting deceptive reviews using generative adversarial networks", Proc. IEEE Secur. Privacy Workshops (SPW), pp. 89-95, May 2018.  
+   - Focus: Utilizes GANs (Generative Adversarial Networks) for identifying deceptive reviews.  
+
+6. A. Mukherjee, V. Venkataraman, B. Liu, and N. Glance 
+   "Fake review detection: Classification and analysis of real and pseudo reviews", 2013.  
+   - Focus: Analysis and classification of fake and real reviews in e-commerce.  
