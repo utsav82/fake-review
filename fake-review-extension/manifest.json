@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Amazon Review Fake Detector",
+    "version": "1.0",
+    "description": "Scrapes Amazon.in reviews, analyzes them using a predictive model, and displays fake review percentages.",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+      "matches": ["https://www.amazon.in/*/product-reviews/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
